@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# C/C++ sources
+*.c text
+*.cc text
+*.cpp text
+*.h text
+*.hpp text
+
+# Scripts
+*.sh text eol=lf
